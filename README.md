@@ -1,0 +1,2 @@
+# kae
+cargo install --path .
